@@ -1,2 +1,2 @@
 # Monsters_Rolodex
-First project to learn React.
+Project to learn React, and learn how to make a search bar.
